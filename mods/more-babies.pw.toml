@@ -1,0 +1,13 @@
+name = "More Babies"
+filename = "More Babies-forge-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea0407d11a729a8d3163f777858c797fa91dea14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4121063
+project-id = 590517

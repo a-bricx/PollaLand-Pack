@@ -1,0 +1,18 @@
+{
+  "invalid_commands": [
+    "/ban",
+    "/ban-ip",
+    "/deop",
+    "/forceload",
+    "/op",
+    "/pardon",
+    "/pardon-ip",
+    "/save-off",
+    "/setidletimeout",
+    "/setworldspawn",
+    "/stop",
+    "/whitelist",
+    "/flashnpcs"
+  ],
+  "max_saved_npcs": 20
+}

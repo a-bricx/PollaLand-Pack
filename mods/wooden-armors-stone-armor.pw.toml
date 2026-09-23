@@ -1,0 +1,13 @@
+name = "Wooden Armors (+ Stone Armor)"
+filename = "woodarmor-forge-1.18.2-v1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a82a5c4dfee8735b47ce90c589f5fd8176fff8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3724916
+project-id = 435228

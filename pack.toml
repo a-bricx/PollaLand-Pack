@@ -1,0 +1,12 @@
+name = "PollaLand"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "33c142f71a8ccf13ad0d4a1bd8d360a4b4cc181a1a05b7f93b79e4f0b25eacd7"
+
+[versions]
+forge = "40.3.0"
+minecraft = "1.18.2"
