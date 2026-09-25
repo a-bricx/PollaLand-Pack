@@ -1,0 +1,13 @@
+name = "Table Top Craft (Forge)"
+filename = "table_top_craft-1.18.2-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d58041b836b5a0da489c16711777d9ae01289c33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5699783
+project-id = 467136

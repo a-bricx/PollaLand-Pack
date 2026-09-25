@@ -1005,8 +1005,18 @@ hash = "c12ef05377a0950e3516d61561e7191174d0c168c3f8a1897203dd3be501fe87"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "33a14f96c097b8593b454b4aa16f4339b40ea7b9fe767a68b5df9e9c3872f001"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "d988799d0503f9e44e7054c55e91fd6ce0ff0dce5302cb4dde1f133819381713"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "bcf941c11374dbc5bbca74d6377a66228e57d3f2addbb14e12211ec380071d22"
 metafile = true
 
 [[files]]
@@ -1085,6 +1095,21 @@ hash = "1d4cbe411ab2aa943d6f9ab878416b53ff9a683d395fb413f841579c5b470f39"
 metafile = true
 
 [[files]]
+file = "mods/create-broken-bad.pw.toml"
+hash = "8a41fd7ab11345aa7b212cba9861f003a76fa8a40d580bac6f414c4788f4fdd4"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "a870f4e08855ee1eb1845baa93c0f941f8b39842e20f6d43e78fa8b212508a87"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2e4d543ae2a887b727ffe2ce8ebd854fb1b23066af0b544c99d40dbf28bd254e"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "ee0a0574fbd3901b7a8d2206f1ebba41b3678de4bb7b3d7d779d8fb36f16e820"
 metafile = true
@@ -1120,6 +1145,11 @@ hash = "b3a5704f1f395bbcfa2c239665e7fa505cc45bde1fff1901863a88e0c2458ffa"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "ccdaf1f436a1504ec5b65dc6fd593df3a5641c51db6e03990e9e63113f65a0e3"
+metafile = true
+
+[[files]]
 file = "mods/expandability.pw.toml"
 hash = "2ecdf3ae76d4ad10da711a93c966f6306c1bfdec39fe9f6c356000e600bf5844"
 metafile = true
@@ -1147,6 +1177,11 @@ metafile = true
 [[files]]
 file = "mods/flashs-npcs.pw.toml"
 hash = "3e6bb725d37d80255e31f40cd4bf102f2b7a7b9961bfa2a486b19a73d2f1b4fe"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "e3ead482fd905fed103ff3bc46c021bb3c29b6256262539548943a934fc7c017"
 metafile = true
 
 [[files]]
@@ -1260,6 +1295,11 @@ hash = "05d6d839422ce87ff34c17abd6af2132b9d13178cfe41c4b8f4acfc1757908a8"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "fc96e0f532be8381fbfdc47b5cdf32d0168dd00d9e14055abd26f3fe7dfb9228"
+metafile = true
+
+[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "28ed42881ce0241ef8facd0163af50f1fa663315397669bf9659a22353759be1"
 metafile = true
@@ -1316,6 +1356,16 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "a98577c28ad6b98275cc4bccdc84b2486d1ec99e669c5b5f1537fda2612a434a"
+metafile = true
+
+[[files]]
+file = "mods/table-top-craft.pw.toml"
+hash = "0b85b5d477d47ab6f781232ea717ad7a853c84fa3c8e74072beeaa8861858f73"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+hash = "5ef32db426e12b34cb6d30ef2205b5a449d14b48f5f60b942fd397f84c08c06a"
 metafile = true
 
 [[files]]
