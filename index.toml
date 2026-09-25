@@ -1294,10 +1294,6 @@ hash = "82f85d730f7078c6c587091b6ca59c240a99125f2ab3a07cc130068f4418baaa"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml.backup"
-hash = "a981cf2648495b8fb0ec992fba5098d596c900c0e1fea9bd51330215e6581ff0"
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "bf4ea8d4b775dc96c7bb9d9d3d70f0d79acd50637f543fc846556f0bcc377fb0"
 metafile = true
