@@ -1050,6 +1050,11 @@ hash = "eb598e0fae5a0a1026b4df1dfd3f9f2286db77967cfaa6c001f90b95d77c863b"
 metafile = true
 
 [[files]]
+file = "mods/casinocraft.pw.toml"
+hash = "38c0e1bcd1a3ed01a928acc67945c37813c27d5aec2a937e922dba03aad29b62"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "95f667886b65aa3df3c25f59ca916d52a33c8955a7bc53a970ec90f1d64b870b"
 metafile = true
@@ -1232,6 +1237,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "e530ea5799c9cba3be208c61920298db391ed802137f25ffa5ad4e249366e421"
+metafile = true
+
+[[files]]
+file = "mods/lucky77.pw.toml"
+hash = "ff7fe1454109818e5d1902844bc5a686b662adae513fe7da287e36282eda38ee"
 metafile = true
 
 [[files]]
